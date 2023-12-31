@@ -1,1 +1,2 @@
-# QR-Code-Generatorr
+# QR-Code-Generator
+generating qr code of a url using node.js
